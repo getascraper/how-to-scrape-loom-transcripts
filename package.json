@@ -1,0 +1,32 @@
+{
+  "name": "how-to-scrape-loom-transcripts",
+  "version": "1.0.0",
+  "description": "How to extract Loom video transcripts in Node.js using the Apify Loom Transcript Scraper actor",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "loom",
+    "transcript",
+    "video",
+    "scraper",
+    "web-scraping",
+    "data-extraction",
+    "apify",
+    "apify-actor",
+    "nodejs",
+    "accessibility",
+    "documentation"
+  ],
+  "author": "getascraper",
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2.10.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
