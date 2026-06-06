@@ -1,13 +1,13 @@
 <div align="center">
 
-# Loom Transcript Scraper: Video Text as JSON
+# Loom Transcript Scraper | Video Data Extraction API | Apify Actor
 
 [![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/devanshlive/loom-transcript-scraper)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-e31b23?style=for-the-badge)](https://github.com/getascraper)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)](https://github.com/getascraper/how-to-scrape-loom-transcripts)
 
-**Extract transcripts and metadata from public Loom videos into structured JSON with VTT and SRT support in seconds.**
+**Loom transcript scraper and video data extraction API. Extract captions, transcripts, and text from Loom videos with this Apify actor. Free tier included.**
 
 Built for content teams, accessibility specialists, and developers who need searchable video transcripts without manual transcription.
 
