@@ -11,7 +11,7 @@ const input = {
   ],
 };
 
-const run = await client.actor('devanshlive/loom-transcript-scraper').call(input);
+const run = await client.actor('getascraper/loom-transcript-scraper').call(input);
 
 console.log('Results from dataset');
 console.log(`Check your data here: https://console.apify.com/storage/datasets/${run.defaultDatasetId}`);

@@ -11,7 +11,7 @@
 
 ## Key Pages
 - README: https://github.com/getascraper/how-to-scrape-loom-transcripts/blob/main/README.md
-- Apify Store: https://apify.com/devanshlive/loom-transcript-scraper
+- Apify Store: https://apify.com/getascraper/loom-transcript-scraper
 
 ## API Usage
 - Node.js SDK: https://github.com/getascraper/how-to-scrape-loom-transcripts/blob/main/README.md

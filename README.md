@@ -2,7 +2,7 @@
 
 # Loom Transcript Scraper | Video Data Extraction API | Apify Actor
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/devanshlive/loom-transcript-scraper)
+[![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/getascraper/loom-transcript-scraper)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-e31b23?style=for-the-badge)](https://github.com/getascraper)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)](https://github.com/getascraper/how-to-scrape-loom-transcripts)
@@ -27,7 +27,7 @@ import 'dotenv/config';
 
 const client = new ApifyClient({ token: process.env.APIFY_TOKEN });
 
-const run = await client.actor('devanshlive/loom-transcript-scraper').call({
+const run = await client.actor('getascraper/loom-transcript-scraper').call({
   startUrls: [
     { url: 'https://www.loom.com/share/912e89a68ccc42c5ab5096fec7cd63d6' },
   ],
@@ -152,7 +152,7 @@ No. Only public Loom videos are supported. The video must be accessible without 
 
 ## Support
 
-Open an issue in the [Apify Console](https://console.apify.com/actors/devanshlive~loom-transcript-scraper/issues).
+Open an issue in the [Apify Console](https://console.apify.com/actors/getascraper~loom-transcript-scraper/issues).
 
 ---
 
@@ -165,4 +165,4 @@ Open an issue in the [Apify Console](https://console.apify.com/actors/devanshliv
 
 **Ready to start extracting?**
 
-[Open the Loom Transcript Scraper on Apify](https://apify.com/devanshlive/loom-transcript-scraper)
+[Open the Loom Transcript Scraper on Apify](https://apify.com/getascraper/loom-transcript-scraper)
